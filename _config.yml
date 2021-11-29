@@ -28,7 +28,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: https://shiyinong.me
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
 
