@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6a5cbc7e-621b-45db-9bf8-1379d360ca6e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-11-29-welcome-to-jekyll.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-11-29-第一篇文章.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/about.markdown" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
