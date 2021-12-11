@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a5cbc7e-621b-45db-9bf8-1379d360ca6e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2021-11-29-为什么我要自己搭建一个博客.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-11-29-第一篇文章.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-11-29-为什么我要自己搭建一个博客.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-11-29-什么是不好的go代码.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
