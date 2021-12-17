@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6a5cbc7e-621b-45db-9bf8-1379d360ca6e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-11-29-为什么我要自己搭建一个博客.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-11-29-什么是不好的go代码.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-11-29-什么是不好的go代码.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-11-29-什么是不好的go代码.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +52,8 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="VcsManagerConfiguration">
     <MESSAGE value="jekyll" />
-    <option name="LAST_COMMIT_MESSAGE" value="jekyll" />
+    <MESSAGE value="文章" />
+    <option name="LAST_COMMIT_MESSAGE" value="文章" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
