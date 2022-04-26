@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a5cbc7e-621b-45db-9bf8-1379d360ca6e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/2021-11-29-在线服务需要哪些实时监控.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-11-29-什么是不好的go代码.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-11-29-什么是不好的go代码.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-11-29-我见过的烂的go代码.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/about.markdown" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +56,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="jekyll" />
     <MESSAGE value="文章" />
-    <option name="LAST_COMMIT_MESSAGE" value="文章" />
+    <MESSAGE value="我见过的&quot;烂&quot;的go代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="我见过的&quot;烂&quot;的go代码" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
