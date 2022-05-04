@@ -26,9 +26,23 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: https://shiyinong.me
 
 # Build settings
-theme: minima
+remote_theme: chesterhow/tale
+
+permalink:    /:year-:month-:day/:title
+paginate:     5
+
 plugins:
-  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+include:
+  - _pages
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
