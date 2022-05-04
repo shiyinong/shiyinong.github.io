@@ -73,11 +73,14 @@ resume_site_dir() {
 }
 
 setup_gh() {
+  echo "setup_gh"
   if [[ -z $(git branch -av | grep "$PAGES_BRANCH") ]]; then
     _no_pages_branch=true
     git checkout -b "$PAGES_BRANCH"
+    echo "git checkout -b "
   else
     git checkout -f "$PAGES_BRANCH"
+    echo "git checkout -f"
   fi
 }
 
