@@ -2,7 +2,6 @@
 layout: post
 title: About
 permalink: /about/
-author: "Shi Yinong"
 ---
 
 后端工程师，写过算法、玩过搜索、略懂机器学习与深度学习。近两年主要在做广告系统相关工作，广告投放平台、广告引擎都涉及过，
