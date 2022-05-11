@@ -29,7 +29,7 @@ url: https://shiyinong.me
 remote_theme: chesterhow/tale
 
 permalink:    /:year-:month-:day/:title
-paginate:     10
+paginate:     8
 
 plugins:
   - jekyll-paginate
