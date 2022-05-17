@@ -31,6 +31,8 @@ remote_theme: chesterhow/tale
 permalink:    /:year-:month-:day/:title
 paginate:     8
 
+markdown: kramdown
+
 plugins:
   - jekyll-paginate
   - jekyll-remote-theme
